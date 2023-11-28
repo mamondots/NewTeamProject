@@ -1,0 +1,34 @@
+[
+    {
+      "image": "https://i.ibb.co/fGr1VwL/007-rabbit.png",
+      "title": "Dogs & Puppies",
+      "text": "Browse dogs and puppies for adopt in the Southwestern US! Find your perfect match today. Looking to sell?",
+      "status": ""
+    },
+    {
+      "image": "https://i.ibb.co/Xz802Fr/008-dog-2.png",
+      "title": "Cats & Kittens",
+      "text": "Litl' Pal currently has over 100 cats and kittens available for adoption. All cats are vaccinated, spayed, neutered.",
+      "status": ""
+    },
+    {
+      "image": "https://i.ibb.co/3Wc7zW3/009-cat-1.png",
+      "title": "Parrots & Birds",
+      "text": "The arrival of homeless birds can throw the typical dog-and-cat oriented shelter into havoc - unless you're prepared to wing it.",
+      "status": "upcaming"
+    },
+    {
+      "image": "https://i.ibb.co/3cTC0cQ/010-chameleon.png",
+      "title": "Rodent Pets",
+      "text": "Our mission is to improve the lives of domestic rodents animals through education, rescue, and rehabilitation.",
+      "status": "upcaming"
+    },
+    {
+      "image": "https://i.ibb.co/x8fXX5W/011-parrot.png",
+      "title": "Exotic Pets",
+      "text": "We're working to save the lives of all exotic animals across America, giving pets second chances and happy homes.",
+      "status": "upcaming"
+    }
+    
+  ]
+  

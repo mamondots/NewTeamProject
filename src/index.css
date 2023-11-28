@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+
+  .animation-delay-4000 {
+    animation-delay: 4s;
+  }
+}
+
+* {
+  font-family: "Sora", sans-serif;
+}
+
+.quiz-button,
+.donation {
+  @apply px-4 py-2 text-[15px] text-white hover:bg-[#434760] bg-[#FC7676] transition-all duration-500 rounded-2xl;
+}

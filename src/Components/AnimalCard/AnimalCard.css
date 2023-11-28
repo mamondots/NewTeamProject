@@ -1,0 +1,24 @@
+.wish-btn{
+    position: absolute;
+    top:14%;
+    right:10%;
+    transform:translate(-50%,-50%);
+}
+.wish-number{
+    position: absolute;
+    right:-8px;
+    top:-8px;
+}
+.full-card{
+    transition:0.5s;
+}
+.full-card .wish-btn{
+    opacity:0;
+    transition:0.5s;
+    transform:translateY(0px);
+}
+.full-card:hover .wish-btn{
+    opacity:1;
+    transform:translateY(-20px);
+    
+}

@@ -1,0 +1,13 @@
+.hero {
+    background-image: url('../../assets/cover.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: 10;
+}
+
+.gradient-text {
+    background-clip: text;
+    color: transparent;
+    background-image: linear-gradient(to right, #FC7676, rgba(253, 82, 82, 0.904));
+}

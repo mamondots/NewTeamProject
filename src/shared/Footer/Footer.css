@@ -1,0 +1,23 @@
+.footer-link ul li a{
+    position: relative;
+    transition:0.5s;
+    padding:0 10px;
+}
+.footer-link ul li a:hover{
+    color:#E46676;
+}
+.footer-link ul li a::before{
+    position: absolute;
+    content:"";
+    width:1px;
+    height:100%;
+    left:0;
+    top:-3px;
+    background-color: #a8aabf;
+}
+.quick-link ul li a{
+    transition:0.5s;
+}
+.quick-link ul li a:hover{
+    color:#E46676;
+}
